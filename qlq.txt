@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+si soy yo
+=======
 qlq
+>>>>>>> 029dd91d46a61ff1a92ef5d5f1d71f262568ad86
